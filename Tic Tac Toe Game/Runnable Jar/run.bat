@@ -1,0 +1,1 @@
+java -jar tic_tac.jar
